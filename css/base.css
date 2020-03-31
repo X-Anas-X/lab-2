@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+*{
+  font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+body {
+  width: 960px;
+  margin: 0 auto;
+}
+.visiblity{
+    display: block;
+}
+main {
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: 10px -5px 8px #888888;
+}
+section{
+    display: none;
+    float: left;
+    height: 360px;
+    width: 49%;
+    box-shadow: 5px 5px 5px gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+body {
+  width: 813px;
+  margin: 0 auto;
+}
+header {
+  width: 80%;
+  margin: 50px auto;
+  text-align: center;
+  padding: 25px;
+  background-color: whitesmoke;
+  border-radius: 25px;
+}
+* {
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  font-size: 15px;
+}
+footer{
+  font-size: 18px;
+  margin-top: 25px;
+} */
